@@ -1,5 +1,4 @@
 # FEhViewer
-English | [简体中文](https://github.com/honjow/FEhViewer/blob/master/README_cn.md)
 
 ## Introduction
 
@@ -9,14 +8,6 @@ An Unofficial e-hentai app make on flutter
 Please submit a pull request if you want to help with translation.
 
 App Strings: `lib/l10n/{lang}.arb`
-
-## Installation for iOS
-1. Get the ipa file from [Releases](https://github.com/honjow/FEhViewer/releases/latest).
-2. Use some software like [AltStore](https://altstore.io) to install the ipa file on your device. Or [AltStore.json](https://config-feh.vercel.app/AltStore.json)
-
-## Descriptions
-
-The main reference for UI is [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)
 
 Current Issues:
 
@@ -38,24 +29,6 @@ Translation
 - [KeepSOBP](https://github.com/KeepSOBP) Korean translation
 - [pursel](https://github.com/pursel), [Gigas002](https://github.com/Gigas002) -- Russian translation
 - [cristal-node](https://github.com/cristal-node) -- Japanese translation
-
-## Screenshot
-
-### Home Page List
-
-<img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/home1.jpg" >
-
-### Gallery
-
-<img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/gallery1.jpg" > <img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/gallery2.jpg" > <img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/gallery3.jpg" >
-
-### Search
-
-<img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/search1.jpg" > <img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/search2.jpg" > <img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/search3.jpg" >
-
-### Read
-
-<img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/read1.jpg" > <img width="200" src="https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/read2.jpg" >
 
 ## Function
 
